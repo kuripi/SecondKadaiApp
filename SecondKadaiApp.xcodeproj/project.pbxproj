@@ -13,6 +13,7 @@
 		FCCC7FFD27E5B700005D4569 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCCC7FFB27E5B700005D4569 /* Main.storyboard */; };
 		FCCC7FFF27E5B702005D4569 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FCCC7FFE27E5B702005D4569 /* Assets.xcassets */; };
 		FCCC800227E5B702005D4569 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCCC800027E5B702005D4569 /* LaunchScreen.storyboard */; };
+		FCCC800A27E5B90C005D4569 /* ResultController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCCC800927E5B90C005D4569 /* ResultController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FCCC7FFE27E5B702005D4569 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FCCC800127E5B702005D4569 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FCCC800327E5B702005D4569 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FCCC800927E5B90C005D4569 /* ResultController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				FCCC7FF527E5B700005D4569 /* AppDelegate.swift */,
 				FCCC7FF727E5B700005D4569 /* SceneDelegate.swift */,
 				FCCC7FF927E5B700005D4569 /* ViewController.swift */,
+				FCCC800927E5B90C005D4569 /* ResultController.swift */,
 				FCCC7FFB27E5B700005D4569 /* Main.storyboard */,
 				FCCC7FFE27E5B702005D4569 /* Assets.xcassets */,
 				FCCC800027E5B702005D4569 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FCCC800A27E5B90C005D4569 /* ResultController.swift in Sources */,
 				FCCC7FFA27E5B700005D4569 /* ViewController.swift in Sources */,
 				FCCC7FF627E5B700005D4569 /* AppDelegate.swift in Sources */,
 				FCCC7FF827E5B700005D4569 /* SceneDelegate.swift in Sources */,
